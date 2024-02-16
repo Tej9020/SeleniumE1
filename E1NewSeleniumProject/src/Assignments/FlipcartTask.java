@@ -1,4 +1,4 @@
-package methodsOfWebDriver;
+package Assignments;
 
 import java.time.Duration;
 import java.util.Iterator;
